@@ -1,4 +1,8 @@
 # Banco_De_Dados
+
+## Imobiliaria
+Conceitual: https://app.brmodeloweb.com/#!/publicview/69df6ae4e33b4dc332f92f97
+
 ## Escola
 Conceitual: https://app.brmodeloweb.com/#!/publicview/69df68cfe33b4dc332f92e6e
 
